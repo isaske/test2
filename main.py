@@ -562,6 +562,9 @@ class Bot(BaseBot):
             await self.highrise.chat(
                 f"Anuncio automatico Actualizado.\n\n{GlobalAnuncio}")
 
+    if message.lower().startswith("/reset"):
+      if user.username == owner_name or user.username in adminsList:
+        await self.highrise.send_whisper(":v", "error forzado")
     #Revisar dinero
     if message.startswith("/billetera"):
       if user.username == owner_name or user.username in adminsList:
