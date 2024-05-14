@@ -1,0 +1,10 @@
+anuncioAuto=stop
+autoTipSave=
+cantidadTipSave=1
+tiempoTipSave=1
+carcelPosSave=[11.5, 0.0, 4.5]
+botspawnPosSave=[7.5, 4.75, 3.5, 'FrontRight']
+room_idSave=
+teleportsSalas={'65879452025531dd793da4b1': [{'name': 'casa', 'rol': 'vip', 'pos': [3.5, 0.019999999552965164, 12.5]}, {'name': 'puerta', 'rol': 'vip', 'pos': [3.5, 0.019999999552965164, 12.5]}], '660b449ef383a9cb6f083316': [{'name': 'casa', 'rol': 'user', 'pos': [3.5, 0.0, 7.5]}, {'name': 'puerta', 'rol': 'user', 'pos': [3.5, 0.0, 7.5]}]}
+adminsListSave=['XhernanX', 'x', 'Pan0_0']
+vipListSave={'botcitoguapo': 3600}
